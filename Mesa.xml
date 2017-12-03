@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mesas>
+    <mesa>
+        <codigo>Mesa 1</codigo>
+        <id>1</id>
+        <lugares>4</lugares>
+    </mesa>
+    <mesa>
+        <codigo>Mesa 2</codigo>
+        <id>2</id>
+        <lugares>8</lugares>
+    </mesa>
+    <mesa>
+        <codigo>Mesa 3</codigo>
+        <id>3</id>
+        <lugares>5</lugares>
+    </mesa>
+    <mesa>
+        <codigo>Mesa 4</codigo>
+        <id>4</id>
+        <lugares>10</lugares>
+    </mesa>
+    <mesa>
+        <codigo>Mesa 7</codigo>
+        <id>5</id>
+        <lugares>3</lugares>
+    </mesa>
+    <mesa>
+        <codigo>Mesa 8</codigo>
+        <id>6</id>
+        <lugares>4</lugares>
+    </mesa>
+    <mesa>
+        <codigo>Mesa 6</codigo>
+        <id>7</id>
+        <lugares>2</lugares>
+    </mesa>
+    <mesa>
+        <codigo>12</codigo>
+        <id>8</id>
+        <lugares>12</lugares>
+    </mesa>
+    <mesa>
+        <codigo>12</codigo>
+        <id>9</id>
+        <lugares>12</lugares>
+    </mesa>
+</mesas>

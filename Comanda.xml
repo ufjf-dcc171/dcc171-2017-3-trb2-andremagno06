@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<comandas>
+    <comanda>
+        <abertura>12.00</abertura>
+        <fechamento>12.00</fechamento>
+        <id>1</id>
+        <mesa>2</mesa>
+    </comanda>
+    <comanda>
+        <abertura>Sun Dec 03 17:11:40 BRST 2017</abertura>
+        <fechamento>Sun Dec 03 19:50:20 BRST 2017</fechamento>
+        <id>2</id>
+        <mesa>4</mesa>
+    </comanda>
+    <comanda>
+        <abertura>Sun Dec 03 17:55:40 BRST 2017</abertura>
+        <fechamento>Sun Dec 03 19:49:50 BRST 2017</fechamento>
+        <id>3</id>
+        <mesa>3</mesa>
+    </comanda>
+    <comanda>
+        <abertura>Sun Dec 03 19:50:39 BRST 2017</abertura>
+        <fechamento> </fechamento>
+        <id>4</id>
+        <mesa>7</mesa>
+    </comanda>
+    <comanda>
+        <abertura>Sun Dec 03 19:51:36 BRST 2017</abertura>
+        <fechamento> </fechamento>
+        <id>5</id>
+        <mesa>3</mesa>
+    </comanda>
+    <comanda>
+        <abertura>Sun Dec 03 19:57:10 BRST 2017</abertura>
+        <fechamento>Sun Dec 03 19:57:27 BRST 2017</fechamento>
+        <id>6</id>
+        <mesa>4</mesa>
+    </comanda>
+    <comanda>
+        <abertura>Sun Dec 03 19:57:33 BRST 2017</abertura>
+        <fechamento> </fechamento>
+        <id>7</id>
+        <mesa>4</mesa>
+    </comanda>
+</comandas>

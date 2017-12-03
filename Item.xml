@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<itens>
+    <item>
+        <descricao>Possui Frango com milho e azeitona</descricao>
+        <id>1</id>
+        <nome>Rosta de Frango</nome>
+        <preco>50.0</preco>
+    </item>
+    <item>
+        <descricao>Torrada bem Escura</descricao>
+        <id>2</id>
+        <nome>Torrada </nome>
+        <preco>5.0</preco>
+    </item>
+    <item>
+        <descricao>123</descricao>
+        <id>4</id>
+        <nome>123</nome>
+        <preco>123.0</preco>
+    </item>
+    <item>
+        <descricao>BatataFrita com Queijo</descricao>
+        <id>4</id>
+        <nome>Batata Frita</nome>
+        <preco>30.0</preco>
+    </item>
+</itens>
